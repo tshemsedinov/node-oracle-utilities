@@ -27,6 +27,6 @@
     "oracledb": "^2.3.0"
   },
   "devDependencies": {
-    "eslint": "^4.15.0"
+    "eslint": "^8.39.0"
   }
 }
